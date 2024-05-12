@@ -3,15 +3,25 @@
 This project aims to understand the influence of the parents background, test preparation etc. on students performance.
 
 Questions/topics to answer:
+
 1-	Average score in each subject. 
+
 2-	How many students took the test preparation course? 
+
 3-	Is there a relationship between the student doing a test preparation course and the score in the exams?
+
 4-	Number of students by gender.
+
 5-	Average score by gender.
+
 6-	Average score per subject by gender. 
+
 7-	Student with the highest total score.
+
 8-	Student with the lowest total score.
+
 9-	What role did ethnicity and educational level from their parents play?
+
 10-	How do ethnicity and lunch behave?
 
 Clarifications about the attributes of the table:
