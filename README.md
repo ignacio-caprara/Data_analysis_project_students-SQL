@@ -1,10 +1,17 @@
-# Project_performance_students
+### Project_performance_students 👨‍🎓 - Using SQL
 
-This project aims to understand the influence of the parents background, test preparation etc. on students performance.
+# Motivation
+
+I ventured on this project to delve into the world of data analysis using SQL and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Students Performance in Exams" Database, with its rich and comprehensive collection of stduents data, provided the perfect opportunity to apply SQL techniques and gain practical experience in data manipulation, aggregation, and analysis.
 
 --------------------------------------------------------------------------------------------------
 
-Questions/topics to answer:
+## Project Overview
+
+This project aims to understand the influence of the parents background, test preparation etc. on students performance.
+
+
+# Questions/topics to answer:
 
 1-	Average score in each subject. 
 
@@ -28,7 +35,7 @@ Questions/topics to answer:
 
 --------------------------------------------------------------------------------------------------
 
-Clarifications about the attributes of the table:
+# Clarifications about the attributes of the table:
 
 -Gender: Student gender
 
@@ -58,7 +65,8 @@ Clarifications about the attributes of the table:
 
 --------------------------------------------------------------------------------------------------
 
-Conclusions:
+# Conclusions:
+
 1)	The average score per student is: in mathematics 66 out of 100, in writing 68 out of 100 and finally, in reading 69 out of 100.
 
 2)	64.20% of students did not take the exam preparation course, while 35.80% did.
@@ -93,10 +101,15 @@ b.	The average score per male student is: in math 69 out of 100, in writing 63 o
 
 --------------------------------------------------------------------------------------------------
 
+# Acknowledgments
+
+I would like to express my gratitude to the creators of the "Students Performance in Exams" database for providing this remarkable dataset for analysis. This project wouldn't have been possible without their efforts.
+
+--------------------------------------------------------------------------------------------------
+
 * The dataset used is composed of fictitious data.
 * Data source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data 
 
 --------------------------------------------------------------------------------------------------
 
 ![imagen_study](https://github.com/ignacio-caprara/Project_performance_students/assets/169360596/4edff078-8686-4876-b883-8a9fe29f374f)
-
