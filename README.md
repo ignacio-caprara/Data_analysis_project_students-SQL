@@ -1,17 +1,17 @@
-### Project_performance_students 👨‍🎓 - Using SQL
+# Project_performance_students 👨‍🎓 - Using SQL
 
-# Motivation
+## Motivation
 
 I ventured on this project to delve into the world of data analysis using SQL and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Students Performance in Exams" Database, with its rich and comprehensive collection of stduents data, provided the perfect opportunity to apply SQL techniques and gain practical experience in data manipulation, aggregation, and analysis.
 
 --------------------------------------------------------------------------------------------------
 
-## Project Overview
+# Project Overview
 
 This project aims to understand the influence of the parents background, test preparation etc. on students performance.
 
 
-# Questions/topics to answer:
+## Questions/topics to answer:
 
 1-	Average score in each subject. 
 
@@ -35,7 +35,7 @@ This project aims to understand the influence of the parents background, test pr
 
 --------------------------------------------------------------------------------------------------
 
-# Clarifications about the attributes of the table:
+## Clarifications about the attributes of the table:
 
 -Gender: Student gender
 
@@ -65,7 +65,7 @@ This project aims to understand the influence of the parents background, test pr
 
 --------------------------------------------------------------------------------------------------
 
-# Conclusions:
+## Conclusions:
 
 1)	The average score per student is: in mathematics 66 out of 100, in writing 68 out of 100 and finally, in reading 69 out of 100.
 
@@ -101,7 +101,7 @@ b.	The average score per male student is: in math 69 out of 100, in writing 63 o
 
 --------------------------------------------------------------------------------------------------
 
-# Acknowledgments
+## Acknowledgments
 
 I would like to express my gratitude to the creators of the "Students Performance in Exams" database for providing this remarkable dataset for analysis. This project wouldn't have been possible without their efforts.
 
