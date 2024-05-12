@@ -25,19 +25,33 @@ Questions/topics to answer:
 10-	How do ethnicity and lunch behave?
 
 Clarifications about the attributes of the table:
+
 -Gender: Student gender
+
 -Ethnicity: According to Data Dictionary on National Codes for ethnicity the groups signify the following;
+
 .Group A - White - British
+
 .Group B - White - Irish
+
 .Group C - White - Any other White background
+
 .Group D - Mixed - White and Black Caribbean
+
 .Group E - Mixed - White and Black African
+
 -Parental level of education: Education achieved by the student's parents.
+
 -Lunch: This variable is a direct correlation to Income of parents as free/reduced lunch is income tested in the US. You can only apply if your parents income is below a certain level.
+
 -Test preparation course: The student took or did not take the exam preparation course.
+
 -Math score: Student's score on the mathematics exam.
+
 -Reading score: Student's score on the reading test.
+
 -Writing score: Student's score on the writing test.
+
 
 Conclusions:
 1)	The average score per student is: in mathematics 66 out of 100, in writing 68 out of 100 and finally, in reading 69 out of 100.
