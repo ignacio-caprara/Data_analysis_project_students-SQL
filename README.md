@@ -96,6 +96,7 @@ b.	The average score per male student is: in math 69 out of 100, in writing 63 o
 * The dataset used is composed of fictitious data.*
 * Data source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data *
 
+--------------------------------------------------------------------------------------------------
 
 ![imagen_study](https://github.com/ignacio-caprara/Project_performance_students/assets/169360596/4edff078-8686-4876-b883-8a9fe29f374f)
 
