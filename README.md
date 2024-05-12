@@ -2,6 +2,7 @@
 
 This project aims to understand the influence of the parents background, test preparation etc. on students performance.
 
+
 Questions/topics to answer:
 
 1-	Average score in each subject. 
@@ -23,6 +24,8 @@ Questions/topics to answer:
 9-	What role did ethnicity and educational level from their parents play?
 
 10-	How do ethnicity and lunch behave?
+
+
 
 Clarifications about the attributes of the table:
 
@@ -70,6 +73,9 @@ b.	The average score per male student is: in math 69 out of 100, in writing 63 o
 8)	The student with the lowest total score in the exams is the student id: 60.
 9)	The least obtained level of parental education is a master degree, regardless of ethnicity group.
 10)	Most students, regardless of their group, have access to the standard lunch.
+
+* The dataset used is composed of fictitious data.*
+* Data source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data *
 
 ![imagen_study](https://github.com/ignacio-caprara/Project_performance_students/assets/169360596/4edff078-8686-4876-b883-8a9fe29f374f)
 
