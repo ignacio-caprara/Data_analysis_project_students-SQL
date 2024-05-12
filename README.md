@@ -2,6 +2,7 @@
 
 This project aims to understand the influence of the parents background, test preparation etc. on students performance.
 
+--------------------------------------------------------------------------------------------------
 
 Questions/topics to answer:
 
@@ -25,7 +26,7 @@ Questions/topics to answer:
 
 10-	How do ethnicity and lunch behave?
 
-
+--------------------------------------------------------------------------------------------------
 
 Clarifications about the attributes of the table:
 
@@ -55,6 +56,7 @@ Clarifications about the attributes of the table:
 
 -Writing score: Student's score on the writing test.
 
+--------------------------------------------------------------------------------------------------
 
 Conclusions:
 1)	The average score per student is: in mathematics 66 out of 100, in writing 68 out of 100 and finally, in reading 69 out of 100.
@@ -89,6 +91,7 @@ b.	The average score per male student is: in math 69 out of 100, in writing 63 o
 
 10)	Most students, regardless of their group, have access to the standard lunch.
 
+--------------------------------------------------------------------------------------------------
 
 * The dataset used is composed of fictitious data.*
 * Data source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data *
