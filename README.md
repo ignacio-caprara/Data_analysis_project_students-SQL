@@ -71,19 +71,24 @@ This project aims to understand the influence of the parents background, test pr
 
 2- 64.20% of students did not take the exam preparation course, while 35.80% did.
 
-3-	
+3-
+
 a. The average score per subject from a student who did not take the preparation course is 65 out of 100.
+
 b.	The average score per subject from a student who took the preparation course is 73 out of 100.
 
 4- There are 518 female and 482 male students.
 
 5-	
+
 a.	The average score per subject for a female student is 70 out of 100.
+
 b.	The average score per subject for a male student is 66 out of 100.
 
 6-
-	
+
 a.	The average score per female student is: in math 64 out of 100, in writing 72 out of 100 and finally, in reading 73 out of 100.
+
 b.	The average score per male student is: in math 69 out of 100, in writing 63 out of 100 and finally, in reading 65 out of 100.
 
 7- The students with the highest total score are three, they also have a perfect score in all the exams. students with id: 101, 812 and 941.
