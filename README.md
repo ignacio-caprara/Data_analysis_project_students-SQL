@@ -1,4 +1,4 @@
-# Project Students 👨‍🎓 - Using SQL
+# Project "Students" 👨‍🎓 - Using SQL
 
 ## Motivation
 
