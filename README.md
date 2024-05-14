@@ -2,7 +2,7 @@
 
 ## Motivation
 
-I ventured on this project to delve into the world of data analysis using SQL and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Students Performance in Exams" Database, with its rich and comprehensive collection of stduents data, provided the perfect opportunity to apply SQL techniques and gain practical experience in data manipulation, aggregation, and analysis.
+I embarked on this project to delve into the world of data analysis using SQL and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Students Performance in Exams" Database, with its rich and comprehensive collection of stduents data, provided the perfect opportunity to apply SQL techniques and gain practical experience in data manipulation, aggregation, and analysis.
 
 --------------------------------------------------------------------------------------------------
 
