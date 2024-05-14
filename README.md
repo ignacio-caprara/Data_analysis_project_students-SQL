@@ -81,7 +81,8 @@ b.	The average score per subject from a student who took the preparation course 
 a.	The average score per subject for a female student is 70 out of 100.
 b.	The average score per subject for a male student is 66 out of 100.
 
-6-	
+6-
+	
 a.	The average score per female student is: in math 64 out of 100, in writing 72 out of 100 and finally, in reading 73 out of 100.
 b.	The average score per male student is: in math 69 out of 100, in writing 63 out of 100 and finally, in reading 65 out of 100.
 
